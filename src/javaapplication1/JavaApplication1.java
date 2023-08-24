@@ -10,8 +10,8 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("my name is rakesh");
         System.out.println("Hello world!");
+        System.out.println("this is second statement...");
     }
     
 }
